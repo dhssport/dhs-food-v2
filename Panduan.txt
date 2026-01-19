@@ -1,0 +1,76 @@
+============================================================
+       DHS FOOD V2 - INTERACTIVE MENU & WHATSAPP CART 🍕
+           "Sistem Order Digital Ala App Premium"
+============================================================
+
+Selamat! Kamu telah memiliki template website kuliner paling 
+canggih dari DHS Studio. Versi ini dilengkapi dengan fitur 
+Keranjang Belanja yang bikin bisnismu terlihat seperti brand besar.
+
+Ikuti panduan langkah-demi-langkah di bawah ini:
+
+------------------------------------------------------------
+1. MENGATUR DAFTAR MENU & HARGA
+------------------------------------------------------------
+- Buka file "index.html" dengan Notepad atau VS Code.
+- Cari bagian yang ditandai dengan .
+- Di dalam kode HTML, cari atribut:
+  * data-name="Nama Makanan" -> Ganti dengan nama menumu.
+  * data-price="25000" -> Ganti dengan harga (HANYA ANGKA).
+- Atribut ini sangat penting agar fitur KERANJANG bisa menghitung 
+  total harga secara otomatis. Jangan sampai terhapus!
+
+------------------------------------------------------------
+2. MENGGANTI FOTO MAKANAN
+------------------------------------------------------------
+- Siapkan foto makanan yang menarik (menggugah selera).
+- Cari kode: src="https://images.unsplash..." atau src="foto.jpg".
+- Ganti dengan nama file foto kamu yang sudah ditaruh di folder yang sama.
+
+------------------------------------------------------------
+3. SETTING NOMOR WHATSAPP PESANAN
+------------------------------------------------------------
+- Cari bagian JavaScript di bagian bawah file (sebelum tag </body>).
+- Cari variabel: const whatsappNumber = "628xxxxxxxx";
+- Ganti dengan nomor WhatsApp Admin tokomu (awali dengan 62).
+- Sekarang, setiap kali pelanggan klik 'Checkout', list pesanan 
+  dan total harganya akan otomatis terkirim ke nomor ini.
+
+------------------------------------------------------------
+4. MENGUBAH KATEGORI (TABS)
+------------------------------------------------------------
+- Kamu bisa mengubah nama kategori (misal: 'Signature', 'Snack', 
+  'Minuman Segar') pada bagian navigasi atas.
+- Pastikan link ID (#makanan, #minuman) sesuai dengan ID 
+  pada bagian section menunya agar fitur scroll berfungsi.
+
+------------------------------------------------------------
+5. ONLINE-KAN VIA GITHUB PAGES (GRATIS & UNLIMITED)
+------------------------------------------------------------
+- Buat repository baru di GitHub (misal: "menu-digital-v2").
+- Upload semua file dan folder aset ke sana.
+- Masuk ke Settings > Pages, pilih branch 'main' dan klik Save.
+- Link website menu digitalmu siap disebarkan!
+
+============================================================
+      🚀 JASA SETUP SISTEM KERANJANG V.I.P 🚀
+============================================================
+
+Masih bingung cara input menu atau setting harganya?
+DHS Studio siap membantu setting total sampai website 
+menu digital kamu SIAP PAKAI buat jualan:
+
+✅ Kami input semua Daftar Menu, Foto, & Harga Anda.
+✅ Kami pastikan fitur Keranjang Belanja & Kalkulator berfungsi.
+✅ Kami hubungkan langsung ke WhatsApp Admin Anda.
+✅ Kami bantu upload ke GitHub Pages sampai website ONLINE.
+✅ BONUS: QR Code Link untuk dipasang di meja pelanggan!
+
+💰 BIAYA SETUP V.I.P: Cuma Rp50.000 saja!
+(Hemat waktu, tinggal terima pesanan masuk lewat WhatsApp!)
+
+HUBUNGI ADMIN (DICKY):
+👉 [082184268075]
+
+"Permudah pelangganmu memesan, omzet pun makin lancar!"
+============================================================
